@@ -1,8 +1,5 @@
-# Pixel-Art-Maker
-
 # Pixel Art Maker Project
 
-!
 
 # About:
 This Project File contains Code for [Pixel Art Maker](http://logan1x.me/PixelArtMaker/) project done for udacity nanodegree.
