@@ -2,7 +2,7 @@
 
 
 # About:
-This Project File contains Code for [Pixel Art Maker](http://logan1x.me/PixelArtMaker/) project done for udacity nanodegree.
+This Project File contains Code for [Pixel Art Maker](/) project done for udacity nanodegree.
 This is a web App that allows Users to draw "Pixel Art" on a canvas(background) customizable to terms of the user! 
 The aim of the "Pixel Art Maker" project aims at building amazing colorful Art from a Selection of grids where a user can select Gride size (height and width numbers) and color(s) into different cells of the grid.
 
