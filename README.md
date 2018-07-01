@@ -15,7 +15,7 @@ Some Persons did have to oppotunity to or probably may not have been given Birth
 ## Screenshot:
 Here are some samples screenshots to see how website looks like:
 <p align="center">
-        <img scr="images/.......jpeg" title=
+        <img scr="https://github.com/SoftMinds416/Pixel-Art-Maker/blob/master/Pixel_Art_Maker_Screenshoot.JPG" title="">
              
 </p>            
 
