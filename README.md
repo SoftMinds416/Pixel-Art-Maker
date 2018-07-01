@@ -29,7 +29,7 @@ https://github.com/udacity/project-pixel-art-maker-starter/archive/master.zip
 ## Contributing
 This repository is the starter code for all Udacity shoolars and thus, likely not be accepting pull requests.   
 
-##Extra Feature##
+## Extra Feature
 ## Remove Grid and Clear Color
 !Click the "Remove Grid" and the "Clear Color" buttons to remove any grids and designed pattern with colors already created.    
 
