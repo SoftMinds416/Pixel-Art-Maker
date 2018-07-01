@@ -41,8 +41,8 @@ Coding using DOMs, jQuery and Java scripts in websites is facinating even when a
 ## Special Thanks
 It will be a deservice not to words, this Lofty and Noteworthy initiative by:
 
-[Udacity»](www.udacity.com),
-[Google»](www.google.com), and  
+[Udacity](www.udacity.com),
+[Google](www.google.com), and  
 [Andela Leraning Community»](https://andela.com)
 
 It's my Prayer and Wish that this initiave out-live us and so many much more African benefit and make the World a better place.
