@@ -50,3 +50,6 @@ It's my Prayer and Wish that this initiave out-live us and so many much more Afr
 ## Author:
 [SoftMinds416»](https://github.com/SoftMinds416)
 [Slack_Handle»] for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is SoftMinds416
+
+View Page live on >>> [SoftMinds416.github.io] (https://SoftMinds416.github.io)
+)
