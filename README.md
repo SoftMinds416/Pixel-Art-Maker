@@ -17,14 +17,10 @@ Here are some samples screenshots to see how website looks like:
 
 ![myshot](https://raw.githubusercontent.com/SoftMinds416/Pixel-Art-Maker/master/Pixel_Art_Maker_Screenshoot.png)
 
-        ![alt text](https://raw.githubusercontent.com/SoftMinds416/Pixel-Art-Maker/master/Pixel_Art_Maker_Screenshoot.png)
+        ![alttext]( Pixel-Art-Maker/Pixel_Art_Maker_Screenshoot.png)
         
         
-        <p>
-        
-        <img src="https://raw.githubusercontent.com/SoftMinds416/Pixel-Art-Maker/master/Pixel_Art_Maker_Screenshoot.png">
-        </p>
-        
+       
              
           
 
