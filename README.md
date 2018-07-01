@@ -17,15 +17,6 @@ Here are some samples screenshots to see how website looks like:
 
 ![myshot](https://raw.githubusercontent.com/SoftMinds416/Pixel-Art-Maker/master/Pixel_Art_Maker_Screenshoot.png)
 
-        ![mystuff](Pixel-Art-Maker/Pixel_Art_Maker_Screenshoot.png)
-        
-        
-       
-             
-          
-
-
-
 
 # Instructions & Requirements
 Schoolar are required to download the starter code from the udacity git hub repositoty - 
